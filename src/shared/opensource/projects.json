@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "id": "whatsapp-chat-analysis",
+      "name": "WhatsApp Chat Analysis",
+      "createdAt": "2023-06-01T00:00:00Z",
+      "description": "ML-based chat analysis system to extract insights and patterns from WhatsApp conversations.",
+      "url": "https://github.com/bathinamahesh/Whatsapp_Chat_Analysis",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "emotion-aware-music",
+      "name": "Emotion Aware Music",
+      "createdAt": "2023-05-01T00:00:00Z",
+      "description": "Music recommendation system that detects user emotions and suggests appropriate music.",
+      "url": "https://github.com/bathinamahesh/Emotion-aware-music",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "movie-recommendation-system",
+      "name": "Movie Recommendation System",
+      "createdAt": "2023-04-01T00:00:00Z",
+      "description": "Collaborative filtering based movie recommendation system with personalized suggestions.",
+      "url": "https://github.com/bathinamahesh/Movie_Recommendation_System",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "sms-spam-detection",
+      "name": "SMS Spam Detection",
+      "createdAt": "2023-03-01T00:00:00Z",
+      "description": "Machine learning model to classify SMS messages as spam or legitimate using NLP techniques.",
+      "url": "https://github.com/bathinamahesh/SMS-Spam-Detection",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "chat-bot",
+      "name": "Chat Bot",
+      "createdAt": "2023-02-01T00:00:00Z",
+      "description": "Intelligent chatbot using natural language processing for automated conversations.",
+      "url": "https://github.com/bathinamahesh/Chat_Bot",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "classroom-management-system",
+      "name": "Classroom Management System",
+      "createdAt": "2023-01-01T00:00:00Z",
+      "description": "Full-stack web application for managing classroom activities, assignments, and student records.",
+      "url": "https://github.com/bathinamahesh/Classroom_Management_System",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "hospital-appointments",
+      "name": "Hospital Appointments Booking",
+      "createdAt": "2022-12-01T00:00:00Z",
+      "description": "Web platform for booking and managing hospital appointments with doctor availability tracking.",
+      "url": "https://github.com/bathinamahesh/Final_hospital_management_with_appointments",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "social-media-posts",
+      "name": "Social Media Posts App",
+      "createdAt": "2022-11-01T00:00:00Z",
+      "description": "Social media application for creating, sharing, and interacting with user posts.",
+      "url": "https://github.com/bathinamahesh/Posts_APP",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "netflix-clone",
+      "name": "Netflix Clone",
+      "createdAt": "2022-10-01T00:00:00Z",
+      "description": "React-based Netflix clone with movie browsing, search, and streaming interface.",
+      "url": "https://netflix-clone-a96dd.web.app/",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
