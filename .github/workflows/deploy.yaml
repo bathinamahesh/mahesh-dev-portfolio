@@ -3,7 +3,7 @@ name: Deploy Portfolio to GitHub Pages
 on:
   push:
     branches:
-      - main   # or master if that's your default branch
+      - master   # or master if that's your default branch
 
 jobs:
   build-and-deploy:
@@ -35,4 +35,4 @@ jobs:
           git config user.email "actions@github.com"
           git add .
           git commit -m "Deploy from mahesh-dev-portfolio 🚀"
-          git push --force https://x-access-token:${GH_TOKEN}@github.com/bathinamahesh/bathinamahesh.github.io.git main
+          git push --force https://x-access-token:${GH_TOKEN}@github.com/bathinamahesh/bathinamahesh.github.io.git master
