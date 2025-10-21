@@ -44,12 +44,6 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5",
   },
   {
-    name: "Leetcode",
-    link: "https://leetcode.com/u/bathinamahesh/",
-    fontAwesomeIcon: "fa-brands fa-git-alt", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#C26B8F", // Reference https://simpleicons.org/?q=instagram
-  },
-  {
     name: "Gmail",
     link: "mailto:bathinamahesh5399@gmail.com",
     fontAwesomeIcon: "fa-google",
