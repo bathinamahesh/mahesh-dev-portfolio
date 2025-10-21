@@ -27,7 +27,7 @@ jobs:
       # --- Deployment Step ---
       - name: Deploy to bathinamahesh.github.io
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
           cd build
           git init
