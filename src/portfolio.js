@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Mahesh Bathina",
   logo_name: "MaheshBathina",
-  nickname: "bathinamahesh",
+  nickname: "",
   subTitle:
     "Backend Software Engineer specializing in Golang, Python (Django/Flask), Spring boot, Kubernetes, and Cloud Native technologies. Experienced in building scalable microservices, full-stack web applications, and machine learning solutions with hands-on expertise in data science.",
   resumeLink:
