@@ -89,7 +89,7 @@ const skills = {
         },
         {
           skillName: "Java",
-          fontAwesomeClassname: "fab fa-java",
+          fontAwesomeClassname: "fa-java",
           style: {
             color: "#f89820",
           },
